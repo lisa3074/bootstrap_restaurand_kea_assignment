@@ -1,0 +1,30 @@
+.navbar {
+  padding-bottom: 0;
+}
+
+.navbar-nav,
+.navbar-brand {
+  padding: 0.5rem;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+}
+
+ul.list-group-flush {
+  padding-left: 0;
+}
+
+footer p {
+  margin: 0;
+  text-align: center;
+}
+
+article {
+  background-color: rgb(238, 238, 238);
+  /*   padding: 1rem; */
+}
+
+.contact p:nth-child(1) {
+  margin: 0;
+}
